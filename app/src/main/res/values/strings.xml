@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CallTaxiFromOtherAPP</string>
+    <string name="link">"<a href="yes-taxi://">Texi</a>"</string>
+</resources>
